@@ -1,0 +1,9 @@
+almost-correkt
+whello
+what's.
+Ths is a smple txt file to tst yor spell checker.
+It contans a mix of crrectly spelled and mispelled words.
+The quick brwn fox jmps over the lazy dog.
+Spelll checkers are a usefull tool for writers.
+They help catch errors that might othrwise go unnoticed.
+Remember, no tool is prfect and manual proofreading is essntial.
